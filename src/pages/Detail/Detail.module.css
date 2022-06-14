@@ -1,0 +1,51 @@
+.buttonVisit {
+  background-color: rgb(0, 150, 136);
+  color: #ffffff;
+  font-weight: bold;
+  position: relative;
+  display: flex;
+  flex: 1 1 0%;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  text-indent: 0px;
+  z-index: 3;
+  overflow: hidden;
+  padding: 10px 16px;
+  margin: 1rem 0;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 600;
+  position: relative;
+  display: block;
+  letter-spacing: -0.045rem;
+  padding: 0;
+  margin-bottom: 0.4rem;
+  margin-top: 3rem;
+}
+
+.divider {
+  display: block;
+  height: 1px;
+  width: 50%;
+  background-color: #484848;
+  position: relative;
+  border: 0;
+  margin: 1rem 0;
+}
+
+.textContent {
+  white-space: pre-line;
+}
+
+.list {
+  list-style: circle;
+  padding: 0 1.4em;
+  margin-bottom: 0.6em;
+}
+
+.list li {
+  margin-bottom: 3px;
+}
